@@ -1,0 +1,17 @@
+Feature,Importance
+num__oldbalanceOrg,5.5791426
+num__newbalanceOrig,3.4866621
+num__amount,2.0049834
+num__newbalanceDest,1.5216461
+cat__type_PAYMENT,1.2077787
+num__oldbalanceDest,0.94056994
+cat__type_CASH_OUT,0.7992398
+cat__type_TRANSFER,0.48450646
+cat__type_CASH_IN,0.24231148
+cat__type_DEBIT,0.0
+num__sender_degree,0.0
+num__sender_in_degree,0.0
+num__sender_out_degree,0.0
+num__sender_pagerank,0.0
+num__sender_betweenness,0.0
+num__sender_clustering,0.0
