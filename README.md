@@ -334,13 +334,7 @@ https://www.kaggle.com/datasets/ealaxi/paysim1
 
 # 👨‍💻 Author
 
-**Akash Jadhav**
-
-B.Sc. Computer Science
-
-MIT World Peace University
-
-Pune, India
+**Sharau Jagtap**
 
 ---
 
